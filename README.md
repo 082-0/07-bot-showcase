@@ -185,3 +185,21 @@ The six 07 core images are shown above. Every selectable Design Studio banner an
 ## About this public copy
 
 This repository contains the shareable docs, artwork, and sample screenshots. It contains no bot source, dashboard implementation, deployment settings, login keys, real Discord IDs, member data, or private ticket transcripts. The live Control Room and member transcript pages remain separate.
+
+<img width="1265" height="712" alt="clipboard" src="https://github.com/user-attachments/assets/66aa9d40-e26a-42da-8414-e731fb2402ab" />
+
+<img width="1265" height="712" alt="clipboard" src="https://github.com/user-attachments/assets/5f47d42a-0693-4950-a64b-b1128ae59cbe" />
+
+<img width="1265" height="712" alt="clipboard" src="https://github.com/user-attachments/assets/2c63ee06-914b-40b7-acb2-a35d81dccfaf" />
+
+<img width="1265" height="712" alt="clipboard" src="https://github.com/user-attachments/assets/6dcbf294-5b39-453a-b232-e692b9043f6a" />
+
+<img width="1265" height="712" alt="clipboard" src="https://github.com/user-attachments/assets/b8fddb2e-f5f4-4713-a337-845d92f57d7c" />
+
+<img width="1265" height="712" alt="clipboard" src="https://github.com/user-attachments/assets/42b3d04d-a10c-4a85-ae99-c5df4cfdf7f8" />
+
+<img width="1265" height="712" alt="clipboard" src="https://github.com/user-attachments/assets/9c91a67c-1328-447a-b3cd-a5e58f72d06c" />
+
+<img width="1265" height="712" alt="clipboard" src="https://github.com/user-attachments/assets/9cb95663-c172-4b25-aed1-893f4fd511ad" />
+
+<img width="1265" height="712" alt="clipboard" src="https://github.com/user-attachments/assets/8927e2a3-167b-4883-a6fd-07e62deb0eaa" />
