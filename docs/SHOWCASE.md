@@ -34,21 +34,21 @@ These screenshots show the real dashboard layout with invented names and counts.
 
 | Overview | Server switching and setup codes |
 | --- | --- |
-| <img width="640" alt="Synthetic 07 Control Room overview with bot status and server metrics" src="SCREEN_OVERVIEW" /> | <img width="640" alt="Synthetic server selector and shareable setup codes" src="SCREEN_SERVERS" /> |
+| <img width="640" alt="Synthetic 07 Control Room overview with bot status and server metrics" src="https://github.com/user-attachments/assets/66aa9d40-e26a-42da-8414-e731fb2402ab" /> | <img width="640" alt="Synthetic server selector and shareable setup codes" src="https://github.com/user-attachments/assets/5f47d42a-0693-4950-a64b-b1128ae59cbe" /> |
 
 | Ticket desk | Separate member transcript website |
 | --- | --- |
-| <img width="640" alt="Synthetic support and purchase ticket desk" src="SCREEN_TICKETS" /> | <img width="640" alt="Synthetic readable member transcript on separate 07 site" src="SCREEN_TRANSCRIPT" /> |
+| <img width="640" alt="Synthetic support and purchase ticket desk" src="https://github.com/user-attachments/assets/2c63ee06-914b-40b7-acb2-a35d81dccfaf" /> | <img width="640" alt="Synthetic readable member transcript on separate 07 site" src="https://github.com/user-attachments/assets/6dcbf294-5b39-453a-b232-e692b9043f6a" /> |
 
 | Welcome and automatic join role | Bot voice and AFK presence |
 | --- | --- |
-| <img width="640" alt="Synthetic welcome cards and automatic Unverified role settings" src="SCREEN_WELCOME" /> | <img width="640" alt="Synthetic bot voice and presence controls" src="SCREEN_CONTROL" /> |
+| <img width="640" alt="Synthetic welcome cards and automatic Unverified role settings" src="https://github.com/user-attachments/assets/b8fddb2e-f5f4-4713-a337-845d92f57d7c" /> | <img width="640" alt="Synthetic bot voice and presence controls" src="https://github.com/user-attachments/assets/42b3d04d-a10c-4a85-ae99-c5df4cfdf7f8" /> |
 
 | Server guard | Activity and routed events |
 | --- | --- |
-| <img width="640" alt="Synthetic server guard configuration" src="SCREEN_SECURITY" /> | <img width="640" alt="Synthetic activity log with verification and ticket events" src="SCREEN_LOGS" /> |
+| <img width="640" alt="Synthetic server guard configuration" src="https://github.com/user-attachments/assets/9c91a67c-1328-447a-b3cd-a5e58f72d06c" /> | <img width="640" alt="Synthetic activity log with verification and ticket events" src="https://github.com/user-attachments/assets/9cb95663-c172-4b25-aed1-893f4fd511ad" /> |
 
-<img width="960" alt="Synthetic 07 Design Studio with banner and avatar gallery" src="SCREEN_STUDIO" />
+<img width="960" alt="Synthetic 07 Design Studio with banner and avatar gallery" src="https://github.com/user-attachments/assets/8927e2a3-167b-4883-a6fd-07e62deb0eaa" />
 
 The private Control Room includes the remaining pages for invite tracking, XP, community, member lookup, command aliases, blackout, connections, updates, and settings.
 
@@ -185,3 +185,5 @@ The six 07 core images are shown above. Every selectable Design Studio banner an
 ## About this public copy
 
 This repository contains the shareable docs, artwork, and sample screenshots. It contains no bot source, dashboard implementation, deployment settings, login keys, real Discord IDs, member data, or private ticket transcripts. The live Control Room and member transcript pages remain separate.
+
+**Want to add 07 to your server? Contact `082_0` on Discord.**
