@@ -1,6 +1,6 @@
 # 07 — visual and feature showcase
 
-This public page shows the 07 Discord bot, its private owner/developer Control Room, and the separate transcript website for members. The images are real project artwork. Dashboard screenshots use the actual interface with invented sample data; no real server, member, ticket, key, or transcript is shown. The runnable bot and dashboard source remain in a separate private repository.
+This public page shows the 07 Discord bot, its private owner/developer Control Room, and the separate transcript website for members. The images are real project artwork. Dashboard screenshots use the actual interface with invented sample data; no real server, member, ticket, key, or transcript is shown. The runnable bot, dashboard and transcript website source are preserved privately and are not published here.
 
 **Want 07 in your server? Contact me on Discord: `082_0`.** The bot and website source code are closed; this public page shows what I built.
 
