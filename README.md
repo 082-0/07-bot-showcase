@@ -1,5 +1,7 @@
 # 07 — visual and feature showcase
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)
+
 This public page shows the 07 Discord bot, its private owner/developer Control Room, and the separate transcript website for members. The images are real project artwork. Dashboard screenshots use the actual interface with invented sample data; no real server, member, ticket, key, or transcript is shown. The runnable bot, dashboard and transcript website source are preserved privately and are not published here.
 
 **Want 07 in your server? Contact me on Discord: `082_0`.** The bot and website source code are closed; this public page shows what I built.
