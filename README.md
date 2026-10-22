@@ -27,7 +27,7 @@ Soft pink blossoms, a dark night sky, and a little edge. Sakura's profile keeps 
 - **Set up a server:** Build roles and channels, configure welcome messages, verification, rules, and automatic join roles.
 - **Give members a place:** Set up color and ping roles, temporary voice rooms, levels, ranks, and giveaways.
 - **Handle tickets:** Run support and purchase ticket panels with staff replies and separate archives. Members receive a private transcript link when a ticket closes.
-- **Keep things in order:** Use moderation commands, a server guard, configurable event logs, and Discord AutoMod event logs. Server staff can opt in to a spam-blocking AutoMod rule.
+- **Keep things in order:** Use moderation commands, a server guard, configurable event logs, and Discord AutoMod event logs.
 - **Stay in control:** Use the private Control Room for server settings, ticket work, bot presence, and voice controls.
 
 Features depend on the bot's permissions in each server. The Control Room is private and is not part of this public repository.
