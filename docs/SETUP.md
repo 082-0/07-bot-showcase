@@ -1,15 +1,15 @@
-# How 07 fits together
+# How Sakura fits together
 
 [Public showcase](SHOWCASE.md) · [Full feature guide](FEATURES.md) · [Back to the first page](../README.md)
 
-07 has three parts:
+Sakura has three parts:
 
 1. **Discord bot:** reads events it has permission to see, runs setup and community commands, posts panels, updates roles and channels, and handles tickets.
 2. **Private Control Room:** lets the owner and approved developers manage each approved server and review ticket/guard activity. The bot and the website communicate through a separate authenticated connection.
 3. **Member transcript website:** stores readable closed-ticket copies away from the private operator dashboard. Each ticket has an unlisted link meant for its member and authorized staff.
 
 ```text
-Discord server ⇄ 07 bot ⇄ private Control Room
+Discord server ⇄ Sakura bot ⇄ private Control Room
                       └─────→ separate transcript website
 ```
 

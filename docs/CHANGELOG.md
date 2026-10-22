@@ -2,7 +2,7 @@
 
 [Public showcase](SHOWCASE.md) · [Back to the first page](../README.md)
 
-This is a public overview of the 07 project, not a deployment log or a promise that every feature is enabled on every server.
+This is a public overview of the Sakura project, including its earlier 07 artwork. It is not a deployment log or a promise that every feature is enabled on every server.
 
 ## Current showcase — October 2026
 
@@ -18,4 +18,4 @@ This is a public overview of the 07 project, not a deployment log or a promise t
 - Moderation logs, anti-bot and role guard, persistent blackouts, trusted operators, backups, recovery, and activity history.
 - Multi-server approval and per-server community/ticket settings.
 
-The older Design Studio gallery remains available as legacy artwork and still says Eclipse. Current 07 panels are shown at the top of the [showcase](SHOWCASE.md).
+The older Design Studio gallery remains available as legacy artwork and still says Eclipse. Earlier 07 panels are shown in the [showcase](SHOWCASE.md); [Sakura's current profile art](../README.md#the-look) is on the home page.

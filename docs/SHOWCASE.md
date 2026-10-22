@@ -1,12 +1,12 @@
-# 07 — visual and feature showcase
+# Sakura — visuals and features
 
-This public page shows the 07 Discord bot, its private owner/developer Control Room, and the separate transcript website for members. The images are real project artwork. Dashboard screenshots use the actual interface with invented sample data; no real server, member, ticket, key, or transcript is shown. The runnable bot and dashboard source remain in a separate private repository.
+Sakura grew from the 07 bot. This page keeps earlier 07 artwork and previews alongside the new [Sakura profile](../README.md). The dashboard screenshots use invented sample data, not real members or tickets. The runnable bot and private sites are not published here.
 
-**Want 07 in your server? Contact me on Discord: `082_0`.** The bot and website source code are closed; this public page shows what I built.
+[Add Sakura to your server](https://discord.com/oauth2/authorize?client_id=1555856888367947796). Review the permissions Discord shows before you approve the invite.
 
 [Public home](../README.md) · [Full feature guide](FEATURES.md) · [Project notes](SETUP.md) · [Change history](CHANGELOG.md)
 
-## The 07 look
+## Earlier 07 artwork
 
 ![Purple 07 Colors self-role banner](../assets/art/07-colors-panel.png)
 
@@ -24,7 +24,7 @@ The ping panel uses the black 07 version. Members opt in to announcement, releas
 | --- | --- |
 | ![07 main banner](../assets/art/07-banner.png) | ![07 avatar](../assets/art/07-avatar.png) |
 
-The [Design Studio gallery](#full-artwork-catalog) also contains 37 selectable banner designs and 37 matching avatars. **Those older selectable designs still contain Eclipse text**, so they are preserved as legacy artwork rather than presented as current 07 branding. The four large 07 panel images above are the current art. See [the full artwork catalog](#full-artwork-catalog) below.
+The [Design Studio gallery](#full-artwork-catalog) also contains 37 selectable banner designs and 37 matching avatars. These designs still say Eclipse or 07, so they are kept as earlier artwork, not Sakura's current profile. See [the new Sakura avatar and banner](../README.md#the-look).
 
 ## Control Room previews
 
@@ -58,7 +58,7 @@ The Control Room has separate owner and developer sign-in. The public showcase i
 
 ## Everything the bot covers
 
-| Area | What 07 does |
+| Area | What Sakura does |
 | --- | --- |
 | Server layout | Preview and apply a designed role/channel layout; check missing permissions; back up and restore. A separate owner-only reset previews a full wipe before applying it. |
 | Verification and rules | Publish rules and a verification button. New members can receive Unverified; verifying changes them to Lunar, never to premium or staff. |
@@ -77,7 +77,7 @@ The Control Room has separate owner and developer sign-in. The public showcase i
 | Design Studio | Gallery of 37 banners and 37 matching avatars, plus profile image controls. |
 | Private operations | Bot health, heartbeat, recent actions, server switching, updates, command aliases, owner/developer access. |
 
-The owner-only `orbit help` menu documents the active commands. Setup actions answer privately where supported; public panels, welcome posts and logs remain visible in their intended channels. Discord permissions and role order still determine what 07 can actually change.
+Start with `$setup` or use `$help` for the command guide. Setup actions answer privately where supported; public panels, welcome posts and logs remain visible in their intended channels. Discord permissions and role order determine what Sakura can actually change.
 
 ## Tickets and transcript separation
 
@@ -100,7 +100,7 @@ The separate transcript site has its own Worker and database. The dashboard does
 
 ## Full artwork catalog
 
-The six 07 core images are shown above. Every selectable Design Studio banner and matching avatar is retained in [the public artwork folder](../assets/art/). The 37 older designs are clearly marked as legacy until they are redesigned with 07 text. These are actual project files; no image is a recreated mockup.
+The earlier 07 images are shown above. Every selectable Design Studio banner and matching avatar is retained in [the public artwork folder](../assets/art/). These are project files, not recreated mockups; the [Sakura profile artwork](../README.md#the-look) is separate.
 
 <!-- ARTWORK_CATALOG -->
 
@@ -184,6 +184,6 @@ The six 07 core images are shown above. Every selectable Design Studio banner an
 
 ## About this public copy
 
-This repository contains the shareable docs, artwork, and sample screenshots. It contains no bot source, dashboard implementation, deployment settings, login keys, real Discord IDs, member data, or private ticket transcripts. The live Control Room and member transcript pages remain separate.
+This repository contains the shareable docs, artwork, and sample screenshots. It contains no bot source, dashboard implementation, deployment settings, login keys, member data, or private ticket transcripts. The live Control Room and member transcript pages remain separate.
 
-**Want to add 07 to your server? Contact `082_0` on Discord.**
+[Add Sakura to your server](https://discord.com/oauth2/authorize?client_id=1555856888367947796).

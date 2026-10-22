@@ -1,13 +1,13 @@
-# Everything 07 does
+# What Sakura does
 
 [See the public showcase](SHOWCASE.md) · [Back to the first page](../README.md)
 
-07 combines a Discord bot, a private owner/developer dashboard, and a separate transcript website for ticket members. The public screenshots use sample data. Features need the bot to be online and to have the required Discord permissions; this page describes the project's capabilities, not a live status report.
+Sakura combines a Discord bot, a private owner/developer Control Room, and a separate transcript website for ticket members. The screenshots use sample data. Features need the bot online with the required Discord permissions; this page describes what is available, not a live status report.
 
 ## Server setup and multiple servers
 
 - The server owner can preview a role and channel layout before applying it. A separate reset command previews a full rebuild. Backups and recovery offer another way to restore layout after a mistake or incident.
-- Only approved servers can use the bot. Each approved server keeps its own tickets, welcome text, guard choices, and community settings. The Control Room has a server picker.
+- Each server keeps its own tickets, welcome text, guard choices, and community settings. The private Control Room has a server picker for approved servers.
 - Shareable setup codes carry reusable settings such as guard rules, welcome text, and ticket category names. They exclude member data, passwords, and server-specific channel or role IDs.
 - Discord still limits what the bot can change: its role must be above any role it manages, and a missing permission or deleted channel can interrupt an action.
 
@@ -16,7 +16,7 @@
 - The bot posts rules and a verification panel. A new member can receive the Unverified role; pressing Verify removes it and grants regular community access. It does not grant premium or staff access.
 - Welcome cards can show the member, a custom greeting, an optional 07 banner, and the inviter when Discord invite data identifies one.
 - Members can choose one color role or remove it, and opt in to ping roles. Smaller panels use buttons; larger sets use a dropdown. Selection feedback is private to the member.
-- The Design Studio has 07 panel artwork and an older selectable gallery of 37 banners with matching avatars. That legacy gallery still contains Eclipse lettering, so it is separated and labeled in the showcase.
+- The Design Studio has earlier 07 panel artwork and a selectable gallery of 37 banners with matching avatars. That older gallery still contains Eclipse lettering, so it is separate from Sakura's profile art.
 
 ## Members, voice, and community
 
@@ -48,4 +48,4 @@
 
 ## Access and limits
 
-`orbit help` is an owner-only guide for the active bot. Member-facing buttons and panels are public where needed; setup responses are private where supported. The actual server permissions, role order, online status, and configured channels determine which feature works at a given moment. This public repository contains no login keys, live IDs, production tickets, or bot source.
+Use `$setup` to begin and `$help` for a command guide. Member-facing buttons and panels are public where needed; setup responses are private where supported. Permissions, role order, online status, and configured channels determine which feature works at a given moment. This public repository contains no login keys, production tickets, or bot source.
