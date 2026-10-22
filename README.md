@@ -10,7 +10,7 @@
 
 </div>
 
-Sakura is a Discord bot you can set up your way. Start with `$setup` to pick your welcome flow, roles, tickets, logs, voice rooms, and moderation tools. Need a hand? `$help` is always there.
+Sakura is a Discord bot you can set up your way. Pick your welcome flow, roles, tickets, logs, voice rooms, and moderation tools. The setup and help commands are there when you need them.
 
 I started with the base of another popular all-in-one bot, changed parts of it, and added my own features and Sakura look. This page is for the bot and its design, not its source code.
 
