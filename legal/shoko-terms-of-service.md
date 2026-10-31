@@ -1,8 +1,8 @@
 # Shoko Terms of Service
 
-Last updated: 27 October 2026
+Last updated: 31 October 2026
 
-These terms cover your use of the Shoko Discord bot ("Shoko", "the bot"), run by 082_0 ("I", "me", "the operator"). By adding Shoko to a server or using it, you agree to these terms. If you do not agree, do not use Shoko.
+These terms cover your use of the Shoko Discord bot ("Shoko", "the bot"), run by 08, Discord `meatforlove` ("I", "me", "the operator"). By adding Shoko to a server or using it, you agree to these terms. If you do not agree, do not use Shoko.
 
 ## 1. Who can use Shoko
 
@@ -53,4 +53,4 @@ I may change these terms. The "Last updated" date will change when I do. If you 
 
 ## 9. Contact
 
-Discord: `082_0`
+Discord: `meatforlove`

@@ -1,8 +1,8 @@
 # Shoko Privacy Policy
 
-Last updated: 27 October 2026
+Last updated: 31 October 2026
 
-This policy explains what data the Shoko Discord bot ("Shoko") collects and how you can ask for it to be deleted. Shoko is run by 082_0 ("I", "me").
+This policy explains what data the Shoko Discord bot ("Shoko") collects and how you can ask for it to be deleted. Shoko is run by 08, Discord `meatforlove` ("I", "me").
 
 ## 1. What Shoko stores
 
@@ -36,7 +36,7 @@ Settings are kept while Shoko is in use. If Shoko is removed from a server, or i
 
 ## 6. Your choices
 
-You can ask me to tell you what data Shoko has about your server, or to delete it. Contact me on Discord (`082_0`). I may need to confirm you are the server owner or an admin. You can also stop all collection by removing Shoko from your server.
+You can ask me to tell you what data Shoko has about your server, or to delete it. Contact me on Discord (`meatforlove`). I may need to confirm you are the server owner or an admin. You can also stop all collection by removing Shoko from your server.
 
 ## 7. Children
 
@@ -52,6 +52,6 @@ I may change this policy. The "Last updated" date will change when I do.
 
 ## 10. Contact
 
-Discord: `082_0`
+Discord: `meatforlove`
 
 See also the [Terms of Service](shoko-terms-of-service.md).

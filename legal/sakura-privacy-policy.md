@@ -1,8 +1,8 @@
 # Sakura Privacy Policy
 
-Last updated: 27 October 2026
+Last updated: 31 October 2026
 
-This policy explains what data the Sakura Discord bot ("Sakura") collects, why, and how you can ask for it to be deleted. Sakura is run by 082_0 ("I", "me").
+This policy explains what data the Sakura Discord bot ("Sakura") collects, why, and how you can ask for it to be deleted. Sakura is run by 08, Discord `meatforlove` ("I", "me").
 
 ## 1. What Sakura stores
 
@@ -56,7 +56,7 @@ You can ask me to:
 - delete the data about you (for example XP, tickets, or transcripts);
 - delete all data about a server (server owners only).
 
-Contact me on Discord (`082_0`). I may need to confirm who you are first. Server staff keep control of logs and tickets in their server, so I may ask them to take part in a request.
+Contact me on Discord (`meatforlove`). I may need to confirm who you are first. Server staff keep control of logs and tickets in their server, so I may ask them to take part in a request.
 
 You can also stop most collection by leaving the server or by asking the server owner to remove Sakura.
 
@@ -74,6 +74,6 @@ I may change this policy. The "Last updated" date will change when I do.
 
 ## 11. Contact
 
-Discord: `082_0`
+Discord: `meatforlove`
 
 See also the [Terms of Service](sakura-terms-of-service.md).

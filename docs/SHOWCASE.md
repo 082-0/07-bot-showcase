@@ -2,7 +2,7 @@
 
 Sakura grew from the 07 bot. This page keeps earlier 07 artwork and previews alongside the new [Sakura profile](../README.md). The dashboard screenshots use invented sample data, not real members or tickets. The runnable bot and private sites are not published here.
 
-[Add Sakura to your server](https://discord.com/oauth2/authorize?client_id=1555856888367947796). Review the permissions Discord shows before you approve the invite.
+Sakura is not public. To add her to your server, message **`meatforlove`** on Discord.
 
 [Public home](../README.md) · [Full feature guide](FEATURES.md) · [Project notes](SETUP.md) · [Change history](CHANGELOG.md)
 
@@ -186,4 +186,4 @@ The earlier 07 images are shown above. Every selectable Design Studio banner and
 
 This repository contains the shareable docs, artwork, and sample screenshots. It contains no bot source, dashboard implementation, deployment settings, login keys, member data, or private ticket transcripts. The live Control Room and member transcript pages remain separate.
 
-[Add Sakura to your server](https://discord.com/oauth2/authorize?client_id=1555856888367947796).
+To add Sakura to your server, message **`meatforlove`** on Discord.
